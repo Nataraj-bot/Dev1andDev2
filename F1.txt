@@ -4,3 +4,4 @@ Newline added via Dev2
 Now Newline added via Dev1 folder
 Changed to master lets see
 newly added freezed
+Now in cloned repo
