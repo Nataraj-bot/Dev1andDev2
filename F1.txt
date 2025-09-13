@@ -1,3 +1,4 @@
 Line1
 Newline added
 Newline added via Dev2
+Now Newline added via Dev1 folder
